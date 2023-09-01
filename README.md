@@ -1,1 +1,1 @@
-# .github-privatePlease pay attention, be careful. I have experienced buying at this shop. I got it at this shop, just used it for a month, the laptop arrived, it turned itself off, then we turned it on again, the laptop was automatically repaired
+# .github-private Please pay attention, be careful. I have experienced buying at this shop. I got it at this shop, just used it for a month, the laptop arrived, it turned itself off, then we turned it on again, the laptop was automatically repaired
