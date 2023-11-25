@@ -8,9 +8,9 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
+| 5.0.x   | ☑️               |
 | 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| < 4.0   | ☑️               |
 
 ## Reporting a Vulnerability
 
@@ -275,3 +275,12 @@ docker pull node<?xml version="1.0" encoding="utf-8"?>
     </item>
   </channel>
 </rss>
+https://github.com/ericsandanulive.co.uk-onmicrosoft/ericsandanu.outlook.comk/pull/5.patch
+             https://github.com/ericsandanulive.co.uk-onmicrosoft/ericsandanu.outlook.com/pull/5.patch
+             https://github.com/ericsandanu.outlook.com-onmicrosoft/ericsandanu.outlook.co.id/pull/5.patch
+             https://github.com/ericsandanu67.outlook.com-onmicrosoft/ericsandanu67.outlook.com/pull/5.patch
+             https://github.com/ericsandanu67.outlook.com-onmicrosoft/ericsandanulive.co.uk/pull/5.patch
+             https://github.com/ericsandanu67.outlook.co.id-onmicrosoft/ericsandanulive.co.uk/pull/5.patch
+             https://github.com/ericsandanulive.co.uk-onmicrosoft/ericsandanu67.outlook.com/pull/5.patch
+_Originally posted by @Ericsandanu in https://github.com/herrysetiawan-onmicrosoft/ericsandanulive.co.uk/pull/5#pullrequestreview-1748807175_           _Originally posted by @Ericsandanu in https://github.com/herrysetiawan-onmicrosoft/ericsandanulive.co.uk/pull/5#pullrequestreview-1748807175_
+git@github.com:herrysetiawan-onmicrosoft/ericsandanulive.co.uk.git            
